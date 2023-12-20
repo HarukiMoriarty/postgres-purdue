@@ -1,0 +1,4 @@
+## Environment Setting && Compiling
+1. `sudo apt-get install libicu-dev pkg-config bison flex libreadline-dev`
+2. `pkg-config --modversion icu-i18n`
+3. `make all`
